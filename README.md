@@ -1,6 +1,5 @@
 ### d i e g o     c h u e r i
 
-- 🌱 I’m currently learning NodeJS
 - 📫 How to reach me: diegochueri@gmail.com
 
  <div>
